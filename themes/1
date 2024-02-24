@@ -1,7 +1,15 @@
 {
-  "line_color": "#000000",
+  "stroke_color": "#000000",
   "background_color": "#FFFFFF",
   "ripple_color": "#212121",
   "hint_color": "#616161",
-  "item_background": "#FFFFFF"
+  "item_background": "#FFFFFF",
+  "progressbar_background": "#E0E0E0",
+  "progress": "#000000",
+  "image_tint": "#000000",
+  "statusbar_color": "#000000",
+  "base_color": "#FFFFFF",
+  "base_stroke": "#000000",
+  "text": "#000000",
+  "item_text": "#000000"
 }
