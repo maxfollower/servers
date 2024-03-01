@@ -11,5 +11,7 @@
   "base_color": "#FFFFFF",
   "base_stroke": "#000000",
   "text": "#000000",
-  "item_text": "#000000"
+  "item_text": "#000000",
+  "selected_text": "#FFFFFF",
+  "selected_text_background": "#616161"
 }
