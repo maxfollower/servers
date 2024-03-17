@@ -1,7 +1,6 @@
 {
-  "stroke_color": "#000000",
   "background_color": "#FFFFFF",
-  "ripple_color": "#212121",
+  "item_ripple": "#212121",
   "hint_color": "#616161",
   "item_background": "#FFFFFF",
   "progressbar_background": "#E0E0E0",
@@ -13,5 +12,12 @@
   "text": "#000000",
   "item_text": "#000000",
   "selected_text": "#FFFFFF",
-  "selected_text_background": "#616161"
+  "selected_text_background": "#616161",
+  "button_background": "#FFFFFF",
+  "button_text": "#000000",
+  "button_stroke": "#000000",
+  "item_stroke": "#000000",
+  "button_stroke_width": 3,
+  "item_stroke_width": 4,
+  "base_stroke_width": 5
 }
